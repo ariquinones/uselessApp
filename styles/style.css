@@ -1,0 +1,15 @@
+button {
+	border: 1px solid black;
+	color: black;
+	border-radius: 5%;
+	
+}
+img {
+	transform: scaleX(-1);
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+canvas {
+	display: inline-block;
+}
